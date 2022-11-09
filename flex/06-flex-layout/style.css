@@ -32,8 +32,6 @@ input {
 
 ul {
   list-style-type: none;
-<<<<<<< HEAD
-=======
   display: flex;
   padding: 0;
   gap: 15px;
@@ -43,14 +41,10 @@ ul {
 a {
   text-decoration: none;
   color: gray;
->>>>>>> 4cd22150d5989ec1b6739fc633207657771e7a60
 }
 
 .header {
   display: flex;
-<<<<<<< HEAD
-
-=======
   justify-content: space-between;
 }
 
@@ -73,5 +67,4 @@ button {
   display: flex;
   justify-content: space-between;
   background-color: gainsboro;
->>>>>>> 4cd22150d5989ec1b6739fc633207657771e7a60
 }
